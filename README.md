@@ -7,6 +7,9 @@ Emits the [date](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Referen
 
 ![play](https://github.com/gshohat/vue-day-picker/assets/91323932/61f73fc1-663f-4e7e-aebb-b325810865fe)
 
+![new](https://github.com/gshohat/vue-day-picker/assets/91323932/05f6cc24-f2bf-467a-984b-2c1c9a297dba)
+
+
 ## Usage
 
 `npm i vue-day-picker`
