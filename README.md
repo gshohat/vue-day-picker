@@ -2,7 +2,7 @@
 
 ![NPM License](https://img.shields.io/npm/l/vue-day-picker)
 
-**Lightweight** date picker component for [Vue](https://vuejs.org/) **< ** 😎 <br>
+**Lightweight** date picker component for [Vue](https://vuejs.org/) **< 5k** 😎 <br>
 Emits the [date](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date) selected to parent component 
 
 ![play](https://github.com/gshohat/vue-day-picker/assets/91323932/61f73fc1-663f-4e7e-aebb-b325810865fe)
