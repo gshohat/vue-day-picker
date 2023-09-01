@@ -1,7 +1,8 @@
 {
   "name": "vue-day-picker",
-  "version": "1.0.3",
+  "version": "1.0.8",
   "author": "Gilad Shohat",
+  "description": "Customizable Date Picker for Vue",
   "homepage": "https://github.com/gshohat/vue-day-picker#readme",
   "license": "MIT",
   "main": "./dist/day-picker.umd.js",
