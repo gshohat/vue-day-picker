@@ -5,7 +5,8 @@
 **Lightweight** date picker component for [Vue](https://vuejs.org/) **< 5k** 😎 <br>
 Emits the [date](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date) selected to parent component 
 
-![date-select](https://github.com/gshohat/vue-day-picker/assets/91323932/bd7aafed-42cf-4152-a873-36a09f24cf00?raw=true)
+![date-select](https://github.com/gshohat/vue-day-picker/assets/91323932/9954d0f6-60e9-4a7b-a1c0-2843f1914d34)
+
 
 
 ## Usage
